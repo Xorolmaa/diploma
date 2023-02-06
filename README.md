@@ -28,7 +28,7 @@ Back-end талын фолдерийн бүтэц:
 
 
 mongoDB харагдах байдал: 
-![image](https://user-images.githubusercontent.com/92014937/217008793-73312fe2-4f7f-49a9-b195-ce423d44b8c1.png)
+![image](https://user-images.githubusercontent.com/92014937/217009298-0b71cc19-2a7a-47ba-b0e8-4dd074103bad.png)
 
 
 
