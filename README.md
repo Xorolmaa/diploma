@@ -22,10 +22,15 @@ Ulgeryn: Community led folklore
 ![image](https://user-images.githubusercontent.com/92014937/217008314-297fafdd-d8c7-43bd-9c59-6093df8b4a08.png)
 
 Back-end талын фолдерийн бүтэц: 
+
 ![image](https://user-images.githubusercontent.com/92014937/217008693-4a8fc193-419b-4124-905a-2704291bf4df.png)
+![image](https://user-images.githubusercontent.com/92014937/217009084-9b819c8b-9943-48e1-84e6-7a3f2ed8a4eb.png)
+
 
 mongoDB харагдах байдал: 
 ![image](https://user-images.githubusercontent.com/92014937/217008793-73312fe2-4f7f-49a9-b195-ce423d44b8c1.png)
+
+
 
 
 
